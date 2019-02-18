@@ -95,7 +95,7 @@ width:348px;
 height:152px;
 float:left;
 text-align:left;
-background:url"https://rawcdn.githack.com/madori212/landing-page-losss-weight/45bd20f71e76f24e9193bff0551d7531bfe36afa/header-middle-bottom-bg.jpg") left top no-repeat;
+background:url("https://rawcdn.githack.com/madori212/landing-page-losss-weight/45bd20f71e76f24e9193bff0551d7531bfe36afa/header-middle-bottom-bg.jpg") left top no-repeat;
 padding-left:28px;
 }
 .subnav ul
@@ -134,7 +134,7 @@ width:980px;
 height:auto;
 float:left;
 text-align:left;
-background:url"https://rawcdn.githack.com/madori212/landing-page-losss-weight/45bd20f71e76f24e9193bff0551d7531bfe36afa/body-inside-bg.jpg") left top repeat-y;
+background:url("https://rawcdn.githack.com/madori212/landing-page-losss-weight/45bd20f71e76f24e9193bff0551d7531bfe36afa/body-inside-bg.jpg") left top repeat-y;
 }
 .body-top-box
 {
