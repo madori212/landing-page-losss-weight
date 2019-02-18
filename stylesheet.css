@@ -5,7 +5,7 @@ body
 {
 margin:0px;
 padding:0px;
-background: url(https://rawcdn.githack.com/madori212/landing-page-losss-weight/eb54c5f6b7d494f7c1060612aead03a0a9b1fdf2/body-bg.jpg) left top repeat-x #022739;
+background: url("https://rawcdn.githack.com/madori212/landing-page-losss-weight/eb54c5f6b7d494f7c1060612aead03a0a9b1fdf2/body-bg.jpg") left top repeat-x #022739;
 }
 *
 {
@@ -95,7 +95,7 @@ width:348px;
 height:152px;
 float:left;
 text-align:left;
-background:url(../images/header-middle-bottom-bg.jpg) left top no-repeat;
+background:url"https://rawcdn.githack.com/madori212/landing-page-losss-weight/45bd20f71e76f24e9193bff0551d7531bfe36afa/header-middle-bottom-bg.jpg") left top no-repeat;
 padding-left:28px;
 }
 .subnav ul
@@ -134,7 +134,7 @@ width:980px;
 height:auto;
 float:left;
 text-align:left;
-background:url(../images/body-inside-bg.jpg) left top repeat-y;
+background:url"https://rawcdn.githack.com/madori212/landing-page-losss-weight/45bd20f71e76f24e9193bff0551d7531bfe36afa/body-inside-bg.jpg") left top repeat-y;
 }
 .body-top-box
 {
@@ -164,7 +164,7 @@ width:567px;
 height:auto;
 float:left;
 text-align:left;
-background:url(../images/media-top-bg.jpg) left top no-repeat;
+background:url("https://rawcdn.githack.com/madori212/landing-page-losss-weight/45bd20f71e76f24e9193bff0551d7531bfe36afa/media-top-bg.jpg") left top no-repeat;
 padding:0px 20px 0px 30px;
 }
 .media
@@ -173,7 +173,7 @@ width:567px;
 height:auto;
 float:left;
 text-align:left;
-background:url(../images/media-bottom-bg.jpg) left bottom no-repeat;
+background:url("https://rawcdn.githack.com/madori212/landing-page-losss-weight/45bd20f71e76f24e9193bff0551d7531bfe36afa/media-bottom-bg.jpg") left bottom no-repeat;
 }
 .media ul
 {
@@ -202,7 +202,7 @@ width:313px;
 height:486px;
 float:right;
 text-align:left;
-background:url(../images/form-bg.jpg) left top no-repeat;
+background:url("https://rawcdn.githack.com/madori212/landing-page-losss-weight/45bd20f71e76f24e9193bff0551d7531bfe36afa/form-bg.jpg") left top no-repeat;
 padding:9px 40px 0px 10px;
 }
 .form-title-box
@@ -233,7 +233,7 @@ height:20px;
 text-align:left;
 font: normal 13px/20px Arial, Helvetica, sans-serif;
 color: #aaaaaa;
-background: url(../images/input-th.jpg) left top repeat-x;
+background: url("https://rawcdn.githack.com/madori212/landing-page-losss-weight/45bd20f71e76f24e9193bff0551d7531bfe36afa/input-th.jpg") left top repeat-x;
 border:1px solid #eb9506;
 padding-left:3px;
 padding-top:3px;
